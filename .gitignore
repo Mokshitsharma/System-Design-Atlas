@@ -49,3 +49,29 @@ next-env.d.ts
 
 # personal notes, never pushed
 /planning/
+# Security hardening
+*.key
+serviceAccountKey.json
+google-services.json
+GoogleService-Info.plist
+firebase-applet-config.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+dist/
+build/
+*.db
+*.sqlite
+*.pt
+*.pkl
+*.joblib
+*.h5
+*.onnx
+*.zip
+.idea/
+.vscode/
+
+# private working notes
+brain/

@@ -1,5 +1,22 @@
-# System Design Atlas
+<!-- readme-refresh 2026-11 -->
+<div align="center">
 
+# 🧩 System Design Atlas
+
+**Beginner-friendly tutorials on how apps like Uber, Netflix, IRCTC and Rapido could be designed**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+</div>
+
+## ✨ Highlights
+
+- Interactive workflow diagrams: watch a request travel through the system
+- Failure views and capacity calculators
+- Every claim labelled Public, Inferred or Assumption
+- 6 tutorials, 121 platforms, 25 architecture patterns · [live site](https://sdatlas.vercel.app/)
+
+<!-- body -->
 **Learn system design step by step, with interactive diagrams of real-world apps.**
 
 System Design Atlas is a free learning site that explains how apps like Uber, Netflix, IRCTC and Rapido could be designed, in plain language for beginners. Every tutorial starts with a short story where *you* are the user, then builds the design one piece at a time: requirements, capacity math, architecture, workflows, database, trade-offs and failure handling.
@@ -59,3 +76,7 @@ Design, architecture decisions, content model, testing and deployment notes are 
 ## License
 
 All rights reserved unless a license file is added.
+
+---
+
+<div align="center"><sub>Built by <a href="https://github.com/Mokshitsharma">Mokshit Sharma</a> · <a href="https://mokshitsharma27.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/mokshit-sharma-75b5ab305">LinkedIn</a></sub></div>
